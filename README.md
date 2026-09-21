@@ -19,6 +19,9 @@ PowerPoint Präsentation zur Einführung in die Software-Entwicklung (Python) mi
 - Videoaufnahme_mp4.py
 - Vorschau_Tuning_File.py
 
+## 3. Vorlesungsfolien
+Folien aus dem Theorieblock
+
 ## Hinweise und Lizenzinformationen
 - Dieses Repository enthält angepasste Beispiele aus den Projekten `picamera2`, und `MAVSDK`. Dabei sind hauptsächlich die Kommunikations-Adressen geändert worden, ohne den wesentlichen Quellcode zu verändern.  
 - Die ursprünglichen Lizenzdateien sind im Repository enthalten (Programmbeispiele_Flugdrohnenprojekt/LICENSE) und (Programmbeispiele_Flugdrohnenprojekt/LICENSE.txt).
